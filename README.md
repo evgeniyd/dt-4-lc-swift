@@ -47,3 +47,4 @@ Problems that *can* be solved with `Heap` data structure.
 * [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Solution](https://leetcode.com/problems/find-all-people-with-secret/solutions/4778215/minheap-solution)
 * [716. Max Stack](https://leetcode.com/problems/max-stack/) | [Solution](https://leetcode.com/problems/max-stack/solutions/4856115/heap-stack-set-comparable-node)
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](https://leetcode.com/problems/meeting-rooms-ii/solutions/4934650/heaps-solutions-1-heap-2-heaps/)
+* [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Solution](https://leetcode.com/problems/top-k-frequent-elements/solutions/4939645/maxheap-with-comparable-struct)
